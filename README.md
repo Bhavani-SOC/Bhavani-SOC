@@ -14,7 +14,7 @@ My journey started as a Security Operations Center (SOC) Tier 1 Analyst in Locuz
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Bhavani-SOC/Active-Directory-Project/blob/main">Active Directory Project</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -55,5 +55,5 @@ My journey started as a Security Operations Center (SOC) Tier 1 Analyst in Locuz
 </div>
 
 ## Projects
-- Active Directory Prroject
+- <a href="https://github.com/Bhavani-SOC/Active-Directory-Project/blob/main">Active Directory Project</a>
 - SOC Automation Project
